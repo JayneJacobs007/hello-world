@@ -1,4 +1,4 @@
 # hello-world
 Test
 
-Addig a line to a branch.
+Adding a line to a branch.
